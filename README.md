@@ -27,3 +27,11 @@ The model predicts whether the given news is **Fake** or **Real**.
 
 ## 👩‍💻 Author
 Rutva Kikani
+## 🧪 Example
+
+### Example Input
+The government has announced a new policy to improve digital education across the country.
+
+### Example Output
+Prediction: Real News
+
