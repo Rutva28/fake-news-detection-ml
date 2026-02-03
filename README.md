@@ -29,9 +29,9 @@ The model predicts whether the given news is **Fake** or **Real**.
 Rutva Kikani
 ## 🧪 Example
 
-### Example Input
-The government has announced a new policy to improve digital education across the country.
+## 🖥️ Website UI / Output Preview
 
-### Example Output
-Prediction: Real News
+Below is the user interface of the Fake News Detection website:
+
+![Website Output](ui-output.png)
 
